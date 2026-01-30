@@ -46,9 +46,18 @@ Paste your results directly into the dash. Taguchi.Ai instantly performs the com
 
 ---
 
+## 🔌 Headless Math API
+Taguchi.Ai is built with a **decoupled architecture**. The core mathematical engine (`taguchiEngine.js`) is a standalone, headless library.
+
+*   **Portable**: Import the engine into any JavaScript/Node.js project.
+*   **Universal**: Can be used to power IoT sensors, backend research servers, or mobile apps.
+*   **Zero Dependencies**: The math core is pure vanilla JS, ensuring it stays fast and future-proof.
+
+---
+
 ## 🛠️ Tech Stack
-*   **Engine**: Custom research-grade JavaScript Mathematics Core.
-*   **UI**: Apple-inspired Glassmorphism with React & Tailwind-equivalent Vanilla CSS.
+*   **Engine**: Custom research-grade JavaScript Mathematics Core (The "Brain").
+*   **UI**: Apple-inspired Glassmorphism with React & Vanilla CSS.
 *   **Charts**: Dynamic Main Effects plots via Recharts.
 *   **Icons**: Lucide-React Precision suite.
 
