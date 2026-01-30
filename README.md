@@ -1,21 +1,81 @@
-<<<<<<< HEAD
-# React + Vite
+# 🧪 Taguchi.Ai v2.0 Pro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **Precision Engineering meets AI Intelligence.**  
+> Transform your experimental chaos into scientific certainty with the world's most intuitive Taguchi Design of Experiments (DOE) workspace.
 
-Currently, two official plugins are available:
+[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Scientific Computing](https://img.shields.io/badge/Scientific-Research--Grade-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Taguchi_methods)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🌟 Vision
+Engineering is often a battle against variance. **Taguchi.Ai** was built to give researchers, students, and industrial engineers a professional-grade "Minitab alternative" that lives in the browser. 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Whether you are optimizing a chemical reaction, tuning a 3D printer, or engineering aerospace components, Taguchi.Ai helps you find the **Robust Optimum** with the fewest possible experiments.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# TaguchiAi
-A research-grade backend engine for Taguchi Design of Experiments (DOE) and Robust Engineering Optimization, built for mechanical, aerospace, manufacturing, and reliability system analysis.  This project implements the mathematical core behind professional tools like Minitab, enabling statistically sound experimental DOE &amp; parameter optimization.
->>>>>>> 5f4296ec67bda6f5888367e70666f57e7dcc7c89
+## 🚀 The Three-Step Workflow
+
+### 1. 🏗️ Design Mode (The Planner)
+Forget manual matrix lookups. Define your control factors, name your levels (e.g., 100°C, 200°C), and let the engine select the mathematically perfect **Orthogonal Array** ($L_4$, $L_9$, $L_{18}$, etc.).
+
+*   **Result**: A professional **Hardware Map** (Experiment Plan) that you can export to Excel or print for the lab.
+
+### 2. 🧪 Lab Execution
+Take your exported plan to the workbench. Conduct your trials following the scientific roadmap provided. No guessing, no wasted resources—just targeted data collection.
+
+### 3. 📊 Analysis Mode (The Oracle)
+Paste your results directly into the dash. Taguchi.Ai instantly performs the complex math:
+*   **S/N Ratio Analysis**: Measure robustness against noise.
+*   **ANOVA Decomposition**: See which factor truly "moves the needle."
+*   **Optimal Prediction**: Get the exact "Secret Recipe" for your product's peak performance.
+
+---
+
+## 🧠 Scientific Capabilities
+
+| Feature | Description |
+| :--- | :--- |
+| **Orthogonal Arrays** | Authenticated tables for $L_4, L_8, L_9, L_{12}, \dots L_{27}$. |
+| **S/N Ratios** | Support for Smaller-is-Better, Larger-is-Better, and Nominal-is-Best. |
+| **Full ANOVA** | Calculation of $SS, df, MS, F$-Ratio, and % Contribution. |
+| **Mixed Levels** | Advanced mapping for mixed resolution designs (like $L_{18}$). |
+| **Excel Export** | One-click CSV generation for professional documentation. |
+
+---
+
+## 🛠️ Tech Stack
+*   **Engine**: Custom research-grade JavaScript Mathematics Core.
+*   **UI**: Apple-inspired Glassmorphism with React & Tailwind-equivalent Vanilla CSS.
+*   **Charts**: Dynamic Main Effects plots via Recharts.
+*   **Icons**: Lucide-React Precision suite.
+
+---
+
+## 📦 Getting Started
+
+1. **Clone the Repo**
+   ```bash
+   git clone https://github.com/yourusername/taguchi-ai.git
+   ```
+2. **Install & Run**
+   ```bash
+   npm install
+   npm run dev
+   ```
+3. **Launch**
+   Open `http://localhost:5173` and start optimizing.
+
+---
+
+## 🎓 For Researchers
+Taguchi.Ai follows the **G. Taguchi (1986)** methodology for Robust Parameter Design. The Signal-to-Noise (S/N) formulas and ANOVA decompositions are verified against standard DOE benchmarks to ensure publication-ready accuracy.
+
+---
+
+<p align="center">
+  Built with ❤️ for the Global Engineering Community. <br/>
+  <b>Taguchi.Ai — Engineering the Future, One Run at a Time.</b>
+</p>
